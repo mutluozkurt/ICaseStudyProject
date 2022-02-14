@@ -1,0 +1,64 @@
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\bin\Debug\CaseStudyProjectDatabase.mdf
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\bin\Debug\CaseStudyProjectDatabase_log.ldf
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\bin\Debug\ObjectLayer.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\bin\Debug\ObjectLayer.pdb
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\bin\Debug\EntityFramework.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\bin\Debug\EntityFramework.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csprojAssemblyReference.cache
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csproj.CopyComplete
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.pdb
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\bin\Debug\CaseStudyProjectDatabase.mdf
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\bin\Debug\CaseStudyProjectDatabase_log.ldf
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\bin\Debug\ObjectLayer.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\bin\Debug\ObjectLayer.pdb
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\bin\Debug\EntityFramework.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\bin\Debug\EntityFramework.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csprojAssemblyReference.cache
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csproj.CopyComplete
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.pdb
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\CaseStudyProjectDatabase.mdf
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\CaseStudyProjectDatabase_log.ldf
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\ObjectLayer.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\ObjectLayer.pdb
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\EntityFramework.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.dll.config
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\EntityFramework.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csprojAssemblyReference.cache
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csproj.CopyComplete
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.pdb
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\CaseStudyProjectDatabase.mdf
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\CaseStudyProjectDatabase_log.ldf
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\ObjectLayer.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\ObjectLayer.pdb
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\EntityFramework.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.pdb
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\DatabaseLayer.dll.config
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\EntityFramework.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csprojAssemblyReference.cache
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csproj.CoreCompileInputs.cache
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.csproj.CopyComplete
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\ObjectLayer\obj\Debug\ObjectLayer.pdb

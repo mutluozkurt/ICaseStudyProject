@@ -1,0 +1,624 @@
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.dll.config
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.pdb
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.exe
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.exe.config
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.rsp
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.exe
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.exe.config
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.rsp
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.AppContext.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Console.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.exe
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.exe.config
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.rsp
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Antlr3.Runtime.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\EntityFramework.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\EntityFramework.SqlServer.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Newtonsoft.Json.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Owin.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\System.Web.Optimization.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\System.Web.Providers.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\WebGrease.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\System.Web.Optimization.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Newtonsoft.Json.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Antlr3.Runtime.pdb
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\EntityFramework.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\EntityFramework.SqlServer.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\System.Web.Providers.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csprojAssemblyReference.cache
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csproj.CopyComplete
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.pdb
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ObjectLayer.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.pdb
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.dll.config
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ObjectLayer.pdb
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\CaseStudyProjectDatabase.mdf
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\CaseStudyProjectDatabase_log.ldf
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Data.v19.1.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Printing.v19.1.Core.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Web.ASPxThemes.v19.1.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Web.Resources.v19.1.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Web.v19.1.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Office.v19.1.Core.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Images.v19.1.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Data.v19.1.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Printing.v19.1.Core.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Web.v19.1.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\DevExpress.Office.v19.1.Core.xml
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.dll.licenses
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Json.dll
+C:\Users\KAHLA-SSD\source\repos\CaseStudyProject\CaseStudyProject\bin\Json.pdb
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\CaseStudyProjectDatabase.mdf
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\CaseStudyProjectDatabase_log.ldf
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.dll.config
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.pdb
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.exe
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.exe.config
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.rsp
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.exe
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.exe.config
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.rsp
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.AppContext.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Console.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.exe
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.exe.config
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.rsp
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Antlr3.Runtime.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Data.v19.1.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Printing.v19.1.Core.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Web.ASPxThemes.v19.1.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Web.Resources.v19.1.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Web.v19.1.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\EntityFramework.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\EntityFramework.SqlServer.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Json.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Newtonsoft.Json.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ObjectLayer.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Owin.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\System.Web.Optimization.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\System.Web.Providers.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\WebGrease.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Office.v19.1.Core.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Images.v19.1.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.pdb
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.dll.config
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ObjectLayer.pdb
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Data.v19.1.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Printing.v19.1.Core.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Web.v19.1.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Json.pdb
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Newtonsoft.Json.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\System.Web.Optimization.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Antlr3.Runtime.pdb
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\EntityFramework.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\EntityFramework.SqlServer.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\System.Web.Providers.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\DevExpress.Office.v19.1.Core.xml
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csprojAssemblyReference.cache
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.dll.licenses
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csproj.CopyComplete
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.dll
+C:\Users\KAHLA-SSD\Desktop\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.pdb
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\CaseStudyProjectDatabase.mdf
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\CaseStudyProjectDatabase_log.ldf
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.dll.config
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.pdb
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.exe
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.exe.config
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.rsp
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.exe
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.exe.config
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.rsp
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.AppContext.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Console.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.exe
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.exe.config
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.rsp
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Antlr3.Runtime.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\EntityFramework.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\EntityFramework.SqlServer.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Json.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Newtonsoft.Json.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ObjectLayer.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Owin.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Web.Optimization.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Web.Providers.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\WebGrease.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Office.v19.1.Core.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Images.v19.1.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.pdb
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.dll.config
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ObjectLayer.pdb
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Data.v19.1.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Printing.v19.1.Core.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Web.v19.1.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Json.pdb
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Newtonsoft.Json.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Web.Optimization.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Antlr3.Runtime.pdb
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\EntityFramework.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\EntityFramework.SqlServer.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Web.Providers.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Office.v19.1.Core.xml
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Web.v19.1.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csprojAssemblyReference.cache
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.dll.licenses
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csproj.CopyComplete
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.dll
+C:\Users\KAHLA-SSD\Desktop\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.pdb
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\CaseStudyProjectDatabase.mdf
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\CaseStudyProjectDatabase_log.ldf
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.dll.config
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\CaseStudyProject.pdb
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.exe
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.exe.config
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csc.rsp
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.exe
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.exe.config
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\csi.rsp
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.AppContext.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Console.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Compression.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.IO.Pipes.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Claims.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.ValueTuple.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.exe
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.exe.config
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\vbc.rsp
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\VBCSCompiler.exe
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Antlr3.Runtime.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\AspNet.ScriptManager.jQuery.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\EntityFramework.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\EntityFramework.SqlServer.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Json.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Newtonsoft.Json.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ObjectLayer.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Owin.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Web.Optimization.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Web.Providers.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\WebGrease.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Pdf.v19.1.Core.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Office.v19.1.Core.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Images.v19.1.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.pdb
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DatabaseLayer.dll.config
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ObjectLayer.pdb
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Data.v19.1.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Printing.v19.1.Core.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.RichEdit.v19.1.Core.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Web.v19.1.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Json.pdb
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Newtonsoft.Json.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Web.Optimization.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Antlr3.Runtime.pdb
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\EntityFramework.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\EntityFramework.SqlServer.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Web.Providers.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Pdf.v19.1.Core.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\DevExpress.Office.v19.1.Core.xml
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Data.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Data.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Data.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Data.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Web.Resources.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Web.Resources.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Web.Resources.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Web.Resources.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Web.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Web.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Web.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Web.v19.1.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\bin\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csprojAssemblyReference.cache
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.dll.licenses
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csproj.CoreCompileInputs.cache
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\WebLayer.csproj.CopyComplete
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.dll
+E:\Projects\case study\CaseStudyProjectR3\CaseStudyProject\CaseStudyProject\obj\Debug\CaseStudyProject.pdb

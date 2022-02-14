@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CaseStudyProjectDatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CSProjectTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Donem" Type="Double" />
+    <Property Name="Marka" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Tuketim" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="CaseStudyProjectDatabaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CSProjectTables" EntityType="Self.CSProjectTable" />
+  </EntityContainer>
+</Schema>

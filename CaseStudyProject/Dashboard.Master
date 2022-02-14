@@ -1,0 +1,132 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Dashboard.master.cs" Inherits="CaseStudyProject.Dashboard1" %>
+
+<!doctype html>
+<html lang="en">
+
+<head runat="server">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Dashboard</title>
+    <!-- Bootstrap CSS -->
+    <link href="Content/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/assets/vendor/fonts/circular-std/style.css" rel="stylesheet" />
+    <link href="Content/assets/libs/css/style.css" rel="stylesheet" />
+    <link href="Content/assets/vendor/fonts/fontawesome/css/fontawesome-all.css" rel="stylesheet" />
+
+
+    <asp:ContentPlaceHolder ID="Head" runat="server"></asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <!-- ============================================================== -->
+        <!-- main wrapper -->
+        <!-- ============================================================== -->
+        <div class="dashboard-main-wrapper">
+            <!-- ============================================================== -->
+            <!-- navbar -->
+            <!-- ============================================================== -->
+            <div class="dashboard-header">
+                <nav class="navbar navbar-expand-lg bg-white fixed-top">
+                    <a class="navbar-brand" href="../index.html">Dashboard</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse " id="navbarSupportedContent">
+                        <ul class="navbar-nav ml-auto navbar-right-top">
+                            <asp:LoginView runat="server" ViewStateMode="Disabled">
+                                <LoggedInTemplate>
+                                    <li class="nav-item dropdown nav-user">
+                                        <a class="nav-link nav-user-img" href="#" id="navbarDropdownMenuLink2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><%: Context.User.Identity.GetUserName()  %> </a>
+                                        <div class="dropdown-menu dropdown-menu-right nav-user-dropdown" aria-labelledby="navbarDropdownMenuLink2">
+                                            <div class="nav-user-info">
+                                                <h5 class="mb-0 text-white nav-user-name">
+                                                    <%: Context.User.Identity.GetUserName()  %> </h5>
+                                                <span class="status"></span><span class="ml-2">Available</span>
+                                            </div>
+                                            <asp:LoginStatus runat="server" class="dropdown-item" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="Account/Login.aspx" OnLoggingOut="Unnamed_LoggingOut" />
+                                        </div>
+                                    </li>
+                                </LoggedInTemplate>
+                            </asp:LoginView>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <!-- ============================================================== -->
+            <!-- end navbar -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- left sidebar -->
+            <!-- ============================================================== -->
+            <div class="nav-left-sidebar sidebar-dark">
+                <div class="menu-list">
+                    <nav class="navbar navbar-expand-lg navbar-light">
+                        <a class="d-xl-none d-lg-none" href="#">Dashboard</a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav">
+                            <ul class="navbar-nav flex-column">
+                                <li class="nav-divider">Menu
+                            </li>
+                                <li class="nav-item ">
+                                    <a class="nav-link active" href="/Dashboard"><i class="fa fa-fw fa-user-circle"></i>Dashboard <span class="badge badge-success">6</span></a>
+                                </li>
+                                <% if (Context.User.Identity.IsAuthenticated)
+                                    { %>
+                                <% if (Context.User.IsInRole("PowerUser"))
+                                    { %>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/LoadData"><i class="fa fa-fw fa-rocket"></i>Load Data</a>
+                                </li>
+                                <%                                } %>
+
+                                <%                                } %>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <!-- ============================================================== -->
+            <!-- end left sidebar -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- wrapper  -->
+            <!-- ============================================================== -->
+            <div class="dashboard-wrapper">
+                <div class="container-fluid dashboard-content">
+
+                    <asp:ContentPlaceHolder ID="Body" runat="server"></asp:ContentPlaceHolder>
+
+                </div>
+
+                <!-- ============================================================== -->
+                <!-- footer -->
+                <!-- ============================================================== -->
+                <div class="footer">
+                    <div class="container-fluid">
+                        <div class="row">
+                           
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- end footer -->
+                <!-- ============================================================== -->
+            </div>
+        </div>
+        <!-- ============================================================== -->
+        <!-- end main wrapper -->
+        <!-- ============================================================== -->
+        <!-- Optional JavaScript -->
+
+
+        <asp:ContentPlaceHolder ID="Script" runat="server"></asp:ContentPlaceHolder>
+        <script src="Content/assets/vendor/jquery/jquery-3.3.1.min.js"></script>
+        <script src="Content/assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+    </form>
+</body>
+
+</html>

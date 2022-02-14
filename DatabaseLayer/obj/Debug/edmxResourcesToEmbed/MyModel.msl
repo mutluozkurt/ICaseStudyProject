@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CaseStudyProjectDatabaseModelStoreContainer" CdmEntityContainer="CaseStudyProjectDatabaseEntities">
+    <EntitySetMapping Name="CSProjectTables">
+      <EntityTypeMapping TypeName="CaseStudyProjectDatabaseModel.CSProjectTable">
+        <MappingFragment StoreEntitySet="CSProjectTable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Donem" ColumnName="Donem" />
+          <ScalarProperty Name="Marka" ColumnName="Marka" />
+          <ScalarProperty Name="Tuketim" ColumnName="Tuketim" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
